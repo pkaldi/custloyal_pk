@@ -1,0 +1,11 @@
+ID;name;email;customerNumber;totalPurchaseValue;totalRewardPoints;totalRedeemedRewardPoints
+0ca772ac-b7c3-44fe-83e3-1004b2c87c12;John Smith;johnsmith@email.com;1234567;5000;400;100
+c46daf3f-5d39-4aa1-8b9e-bed5f8c3ff16;Jane Doe;janedoe@email.com;2345678;7000;600;100
+d0e13790-0563-42e9-ac69-6f37230b93a8;Michael Johnson;michaeljohnson@email.com;3456789;8000;700;100
+5694e0d2-b208-41ee-8bd3-0ff5dc897a44;Emily Brown;emilybrown@email.com;4567890;9000;800;100
+7d44eac9-3058-49e7-a12d-45c8c3333756;David Wilson;davidwilson@email.com;5678901;6000;500;100
+03ece335-98ab-4f6d-a9cf-bde2a0453e7c;William Taylor;williamtaylor@email.com;6789012;4000;300;100
+d6544c1a-16c4-449a-8914-e757bdd0c2ed;Oliver Thomas;oliverthomas@email.com;7890123;3000;200;100
+343c1177-e7f4-445d-a7fc-c5f25345b48d;Jack Harris;jackharris@email.com;8901234;2000;100;100
+1689302b-385b-4ed5-b959-4df4c2270685;Charlie Martin;charliemartin@email.com;9012345;1000;100;0
+63be3d3c-55e3-4575-963a-8c5196bb4cc0;George Thompson;georgethompson@email.com;0123456;10000;900;100
